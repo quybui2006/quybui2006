@@ -4,21 +4,6 @@
 
 <h1 align="center">Hi, I'm Quy 👋</h1>
 
-<p align="center">
-  <a href="https://github.com/quybui2006"><img src="https://img.shields.io/badge/GitHub-quybui2006-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="AWS EC2"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-</p>
-
-<p align="center">
-  Software Engineering student at <strong>FPT University, Vietnam</strong>, focused on <strong>Backend Development</strong>, <strong>DevOps</strong>, and <strong>Cloud Infrastructure</strong>.
-</p>
-
----
 
 ## 👨‍💻 About Me
 
