@@ -113,19 +113,7 @@ I’m a software engineering student building practical skills through real prod
 <p align="center">
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quybui2006&theme=github_dark" alt="GitHub Profile Summary" />
 </p>
-<p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=quybui2006&theme=github_dark" alt="Top Languages" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=quybui2006&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
 
----
-
-## 🌱 Currently Learning
-
-- Spring Boot backend architecture and production performance tuning
-- Multi-service Linux server administration and Nginx reverse proxy optimization
-- Docker containerization and automated CI/CD pipelines with GitHub Actions
-- AWS Cloud infrastructure and database optimization patterns
 
 ---
 
